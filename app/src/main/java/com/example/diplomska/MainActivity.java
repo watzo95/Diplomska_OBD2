@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        alertDialog.setTitle("Izberite napravo Bluetooth");
+        alertDialog.setTitle("Izberite napravo Bluetooth:");
         alertDialog.show();
     }
 }
